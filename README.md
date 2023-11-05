@@ -4,6 +4,7 @@
 
 > <img width="1079" alt="Scherm­afbeelding 2023-11-01 om 15 19 34" src="https://github.com/iBadr49/choices-choices-justify-your-tech-stack/assets/112857932/2a7a8caf-17bf-45f7-b0cf-13327b30e2bd">
 
+> _Pp Presentatie_
 ## Beschrijving
 
 Voordat ik begon met het opnieuw bouwen van een bestaande website met behulp van Nuxt.js en Sanity.io, heb ik uitgebreid onderzoek gedaan. Mijn bevindingen en informatie zijn gedocumenteerd in de wiki. Vervolgens heb ik een presentatie gegeven waarin ik deze twee technologieën, Nuxt.js en Sanity.io, heb besproken. Door deze voorbereidende stappen te nemen, heb ik een stevige basis gelegd voor mijn project.
