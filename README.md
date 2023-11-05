@@ -1,8 +1,12 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
 
-# Justify your Tech-stack
+# Tech-stack | Nuxt.js & Sanity.io
 
-Verantwoord en presenteer je keuze voor een tech-stack.
+> <img width="1079" alt="Scherm­afbeelding 2023-11-01 om 15 19 34" src="https://github.com/iBadr49/choices-choices-justify-your-tech-stack/assets/112857932/2a7a8caf-17bf-45f7-b0cf-13327b30e2bd">
+
+## Beschrijving
+
+Voordat ik begon met het opnieuw bouwen van een bestaande website met behulp van Nuxt.js en Sanity.io, heb ik uitgebreid onderzoek gedaan. Mijn bevindingen en informatie zijn gedocumenteerd in de wiki. Vervolgens heb ik een presentatie gegeven waarin ik deze twee technologieën, Nuxt.js en Sanity.io, heb besproken. Door deze voorbereidende stappen te nemen, heb ik een stevige basis gelegd voor mijn project.
 
 <!-- Haal bovenstaande tekst weg! -->
 
